@@ -1,22 +1,24 @@
-These files are based on the paper Malhan & Bailer-Jones (2026)
+These two files are based on the paper **Malhan & Bailer-Jones (2026)**.
 
 arXiv: 
 
 Abstract: 
 
+The details about these files are provided below.
 
-1. `zFile04b_priors_edsd_ggd.fits`: This file provides distance priors, based on both EDSD and GGD models. It contains the following columns:
+1. `zFile04b_priors_edsd_ggd.fits`: This file provides distance priors based on two models, namely **EDSD** and **GGD**. The file contains the following columns.
    
-`healpix_id`  :
+`healpix_id`                         : healpixel id
 
-`glon`, `glat`:
+`glon`, `glat`                       : Galactic longitude and latitude corresponding to the healpixel
 
-`edsd_L`
+`Gmag_GDR4_q0.998`                   : Stars brighter than $G<Gmag_GDR4_q0.998$ are used to fit the models
 
-`r_edsd_50`, `r_edsd_16`, `r_edsd_84`: 
+`edsd_L`                             : fitted `L` parameter of the EDSD model 
 
-`ggd_alpha`, `ggd_beta`, `ggd_L`     :
+`r_edsd_50`, `r_edsd_16`, `r_edsd_84`: 50, 16, and 84 quantiles of the fitted EDSD model
 
-`r_ggd_50`, `r_ggd_16`, `r_ggd_84`   : 
+`ggd_alpha`, `ggd_beta`, `ggd_L`     : fitted ($\alpha, \beta, L$) parameters of the GGD model
 
-`Gmag_GDR4_q0.998`: 
+`r_ggd_50`, `r_ggd_16`, `r_ggd_84`   : 50, 16, and 84 quantiles of the fitted GGD model
+
