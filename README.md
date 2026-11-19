@@ -1,6 +1,4 @@
-These two files are based on the paper **Malhan & Bailer-Jones (2026)**.
-
-arXiv: 
+This repository provides certain data products based on the paper **Malhan & Bailer-Jones (2026)**, arXiv: __________________
 
 <br>
 
