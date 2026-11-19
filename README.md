@@ -1,4 +1,4 @@
-![alt text](figures/zFig01.png)
+![alt text](zFig01.png)
 
 This repository provides certain data products based on the paper **Malhan & Bailer-Jones (2026)**, arXiv: __________________
 
