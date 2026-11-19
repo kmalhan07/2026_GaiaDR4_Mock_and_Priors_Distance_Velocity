@@ -5,10 +5,11 @@ This repository provides certain data products based on the paper **Malhan & Bai
 
 The details about these files are provided below.
 
+<br>
 1. `Gaia DR4 mock stellar catalogue`:  This data, along with its accompanying readme file, is publicly available at _____________
 
-<br>
 
+<br>
 2. `zFile04b_priors_edsd_ggd.fits`: This file provides two types of distance priors, based on **EDSD** and **GGD** models, both constrained using the `Gaia DR4 mock stellar catalogue`. This file contains the following columns.
    
 `healpix_id`                         : healpixel id
@@ -26,5 +27,6 @@ The details about these files are provided below.
 `r_ggd_50`, `r_ggd_16`, `r_ggd_84`   : 50, 16, and 84 quantiles of the fitted GGD model
 
 
+<br>
 3. `____Coryn's velocity file_____`
 
