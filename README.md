@@ -1,9 +1,15 @@
 This repository provides certain data products based on the paper **Malhan & Bailer-Jones (2026)**, arXiv: __________________
 
 <br>
+<br>
 
 The details about these files are provided below.
 
+1. Gaia DR4 mock stellar catalogue:  This data, along with its accompanying readme file, is publicly available at _____________
+
+<br>
+
+2. 
 1. `zFile04b_priors_edsd_ggd.fits`: This file provides distance priors based on two models, namely **EDSD** and **GGD**. The file contains the following columns.
    
 `healpix_id`                         : healpixel id
