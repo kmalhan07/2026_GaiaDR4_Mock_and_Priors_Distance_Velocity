@@ -14,7 +14,7 @@ The details about these files are provided below.
 
 `Gmag_GDR4_q0.998`                   : Stars brighter than G<`Gmag_GDR4_q0.998` are used to fit the models
 
-`edsd_L`                             : fitted `L` parameter of the EDSD model 
+`edsd_L`                             : fitted $L$ parameter of the EDSD model 
 
 `r_edsd_50`, `r_edsd_16`, `r_edsd_84`: 50, 16, and 84 quantiles of the fitted EDSD model
 
