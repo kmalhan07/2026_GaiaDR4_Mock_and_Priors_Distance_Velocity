@@ -12,7 +12,7 @@ The details about these files are provided below.
 
 `glon`, `glat`                       : Galactic longitude and latitude corresponding to the healpixel
 
-`Gmag_GDR4_q0.998`                   : Stars brighter than $G<Gmag\_GDR4\_q0.998$ are used to fit the models
+`Gmag_GDR4_q0.998`                   : Stars brighter than G<`Gmag_GDR4_q0.998` are used to fit the models
 
 `edsd_L`                             : fitted `L` parameter of the EDSD model 
 
