@@ -10,9 +10,9 @@ This repository provides certain data products based on the paper **Malhan & Bai
 
 <b><ins>Gaia DR4 Mock Stellar Catalogue (publicly available)</ins></b>
 
->> `_read_me.pdf`: Provides the description of this catalogue
+- `_read_me.pdf`: Provides the description of this catalogue
 
->> `p01m_to_download_GDR4mock_from_GAVO.py`: Lets you bulk download the catalogue from GAVO [https://dc.g-vo.org/browse/dr4mock/q] [http://dc.g-vo.org/dr4mock/q/dl/static/]. 
+- `p01m_to_download_GDR4mock_from_GAVO.py`: Lets you bulk download the catalogue from GAVO [https://dc.g-vo.org/browse/dr4mock/q] [http://dc.g-vo.org/dr4mock/q/dl/static/]. 
 
 
 <br>
