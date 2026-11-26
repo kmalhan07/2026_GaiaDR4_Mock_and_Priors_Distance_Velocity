@@ -4,8 +4,8 @@
 <br>
 
 This repository provides certain data products based on:
-- **paper**: Malhan & Bailer-Jones (2027)
-- **arXiv: 
+- **Paper:** Malhan & Bailer-Jones (2027)
+- **arXiv:** 
 
 <br>
 <br>
