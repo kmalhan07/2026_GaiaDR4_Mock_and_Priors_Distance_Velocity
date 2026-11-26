@@ -3,7 +3,9 @@
 <br>
 <br>
 
-This repository provides certain data products based on the paper **Malhan & Bailer-Jones (2027)**, arXiv: 
+This repository provides certain data products based on:
+- **paper**: Malhan & Bailer-Jones (2027)
+- **arXiv: 
 
 <br>
 <br>
