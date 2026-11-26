@@ -8,7 +8,7 @@ This repository provides certain data products based on the paper **Malhan & Bai
 <br>
 <br>
 
-<b>Gaia DR4 Mock Stellar Catalogue (publicly available)</b>
+<b><ins>Gaia DR4 Mock Stellar Catalogue (publicly available)</ins></b>
 
 1. `p01m_to_download_GDR4mock_from_GAVO.py`: This python script lets you bulk download the (publicly available) Gaia DR4 mock stellar catalogue from GAVO [https://dc.g-vo.org/browse/dr4mock/q] [http://dc.g-vo.org/dr4mock/q/dl/static/]. This catalogue is produced as a part of the above mentioned paper.
 
