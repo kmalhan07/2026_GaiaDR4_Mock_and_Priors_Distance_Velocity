@@ -13,7 +13,7 @@ This repository provides certain data products based on:
 
 - `_read_me.pdf`: Provides the description of this catalogue
 
-- `p01m_to_download_GDR4mock_from_GAVO.py`: Lets you bulk download the catalogue from GAVO [https://dc.g-vo.org/browse/dr4mock/q] [http://dc.g-vo.org/dr4mock/q/dl/static/]. 
+- `p01m_to_download_GDR4mock_from_GAVO.py`: Lets you bulk download the catalogue from GAVO [https://dc.g-vo.org/GaiaDR4mock] [https://dc.g-vo.org/browse/dr4mock/q] [http://dc.g-vo.org/dr4mock/q/dl/static/]. 
 
 - `To download a few .fits files from GAVO`: provides steps to download a few GaiaDR4-mock .fits files from GAVO
   
