@@ -1,0 +1,9 @@
+To download a few .fits files from GAVO:
+
+1) Go to http://dc.g-vo.org/dr4mock/q/dl/static/
+
+2) Provide credentials as follows:
+username: ari
+password: ari
+
+3) Click on the required files to download
