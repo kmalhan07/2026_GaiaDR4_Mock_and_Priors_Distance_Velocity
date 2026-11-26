@@ -13,7 +13,9 @@ This repository provides certain data products based on the paper **Malhan & Bai
 
 - `p01m_to_download_GDR4mock_from_GAVO.py`: Lets you bulk download the catalogue from GAVO [https://dc.g-vo.org/browse/dr4mock/q] [http://dc.g-vo.org/dr4mock/q/dl/static/]. 
 
-- `zFig01.png`: this corresponds to Fig. 3 of the above mentioned paper
+- `To download a few .fits files from GAVO`: provides steps to download a few GaiaDR4-mock .fits files from GAVO
+  
+- `zFig01.png`: provides overview of the catalogue (this figure corresponds to Fig. 3 of the above mentioned paper)
 
 
 <br>
